@@ -1,0 +1,26 @@
+{
+  "name": "fullstack-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PersickWebdev/fullstack-shop.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "postgres",
+    "react",
+    "redux"
+  ],
+  "author": "Vladdev <vladdev461@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PersickWebdev/fullstack-shop/issues"
+  },
+  "homepage": "https://github.com/PersickWebdev/fullstack-shop#readme"
+}
